@@ -33,7 +33,7 @@ A simple Todo App built with Flutter that supports basic CRUD operations on todo
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/Endeavor36/todo_app.git
+    git clone https://github.com/naolgithub/Todo-with-sembast-and-shared-preferences.git
 
 2. Navigate to the project directory:
 
